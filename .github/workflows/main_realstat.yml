@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'realstat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C89AA4E869AB466AB3A234EBD56E4DA3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D15FC7BFF5F445D2A33088CC41409B3B }}
           package: .
